@@ -1,6 +1,5 @@
 [![Mon portfolio](README/bann.jpg)](https://prestazur.fr)
 
---- 
 # Mon Portfolio RPG - IBM i (AS/400)
 
 Ce repository contient mes exercices et mes premiers projets en **RPGLE** sur IBM i.
