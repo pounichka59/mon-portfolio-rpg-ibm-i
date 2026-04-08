@@ -7,7 +7,7 @@ Ce repository contient mes exercices et mes premiers projets en **RPGLE** sur IB
 ### Objectif
 - Reprendre les bases de l'environnement IBM i
 - Progresser en RPGLE (free-format)
-- Préparer un portfolio visible pour des recherches d'emploi
+- Préparer un portfolio visible pour échanges et partenariats
 
 ### Structure du repository
 
